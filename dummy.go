@@ -1,5 +1,5 @@
 package dummy
 
 func Greet() string {
-	return "Greetings!"
+	return "Updated v1 Greetings!"
 }
